@@ -11,7 +11,7 @@
 
 - 🚀 Join me on my journey of discovery as I navigate the exciting world of code, constantly pushing the boundaries of what's possible.
 
-- 👨‍💻 Explore my ever-growing collection of projects on my GitHub and witness the magic unfold!
+- 👨‍💻 Explore my ever-growing collection of projects on my GitHub and witness the magic unfold.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
