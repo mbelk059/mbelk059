@@ -7,11 +7,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 A Second-Year Software Engineering student, fueled by **curiosity** and a **passion** for innovation!
-
-- 🚀 Join me on my journey of discovery as I navigate the exciting world of code, constantly pushing the boundaries of what's possible.
-
-- 👨‍💻 Explore my ever-growing collection of projects on my GitHub and witness the magic unfold.
+- 🌱 a student trying to learn to code :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
