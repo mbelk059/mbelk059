@@ -7,7 +7,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 a student trying to learn to code :)
+- 🌟 a student learning to code and creating impactful projects :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
