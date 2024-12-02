@@ -7,7 +7,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌟 a student learning to code and creating impactful projects :)
+- 🌟 i like to work on all types of different projects, currently I've been playing around with Arduino so take a look at my repo in my pins :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
