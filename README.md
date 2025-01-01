@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/35d45729-91bd-4e6a-aebb-fa6ca7b17aa1" 
-    style="display:block; margin:auto; width:200px; height:auto;" 
+    style="display:block; margin:auto; width:180px; height:auto;" 
     loop 
   />
 </div>
